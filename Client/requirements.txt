@@ -1,1 +1,4 @@
-
+kivy==2.2.1
+kivymd==1.1.1
+requests==2.31.0
+pyinstaller==5.13.0
