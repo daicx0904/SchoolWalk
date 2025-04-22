@@ -1,0 +1,2 @@
+# SchoolWalk
+Server and client
